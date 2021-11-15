@@ -1,0 +1,17 @@
+body{
+    font-family: Garamond;
+    font-size: 20px;
+    text-align: center;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: white;
+}
+a:active{
+    color: blue;
+}
